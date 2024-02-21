@@ -1,0 +1,27 @@
+/* ======================================header_section_start=========================================================== */
+.header_section .navbar{
+    background: black !important;
+    color: white;
+}
+.header_section .navbar .logo_perent{
+    height: 100px;
+}
+.header_section .navbar .logo_perent .logo{
+    height: 100%;
+}
+.header_section .navbar .navbar-toggler .navbar-mytoggler-icon{
+    color: white;
+    font-size: 32px;
+    border: 2px white solid;
+    padding: 1px 12px;
+}
+.header_section .navbar .navbar-toggler:focus{
+    outline:none;
+}
+.header_section .navbar .navbar-toggler .navbar-mytoggler-icon:hover{
+    border: 2px white solid;
+    padding: 1px 12px;
+}
+.nav-link{
+    color:white !important;
+}
